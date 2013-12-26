@@ -1,4 +1,3 @@
-This is your new Play application
-=====================================
+Nothing important to see here
 
-This file will be packaged with your application, when using `play dist`.
+This is just a sample app I use to test out JSON manipulation in playframework
